@@ -15,8 +15,8 @@ import numpy as np
 
 # G1 = ["2"]      # padrao
 #G1 = ["4"]      #2496 itens
-G1 = ["6"]      #638 itens
-#G1 = ["8"]      #638 itens com demanda zerada
+# G1 = ["6"]      #365 itens demanda 5
+G1 = ["8"]      #365 itens demanda 1
 L1 = ["A"]
 
 L2 = ["A"]
